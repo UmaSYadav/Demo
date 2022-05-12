@@ -1,2 +1,2 @@
-# KafkaStream
-Project to implement Kafka Stream.
+# Demo
+Project to random practice.
